@@ -91,7 +91,7 @@ DisableStickyKeys               # EnableStickyKeys
 ShowTaskManagerDetails          # HideTaskManagerDetails
 ShowFileOperationsDetails       # HideFileOperationsDetails
 # EnableFileDeleteConfirm       # DisableFileDeleteConfirm
-HideTaskbarSearch               # ShowTaskbarSearchIcon         # ShowTaskbarSearchBox
+#HideTaskbarSearch               # ShowTaskbarSearchIcon         ShowTaskbarSearchBox
 HideTaskView                    # ShowTaskView
 #ShowSmallTaskbarIcons           # ShowLargeTaskbarIcons
 #SetTaskbarCombineWhenFull       # SetTaskbarCombineNever        # SetTaskbarCombineAlways
