@@ -86,7 +86,7 @@ DisableActionCenter             # EnableActionCenter
 # DisableLockScreenRS1          # EnableLockScreenRS1
 #HideNetworkFromLockScreen       # ShowNetworkOnLockScreen
 #HideShutdownFromLockScreen      # ShowShutdownOnLockScreen
-# DisableAeroShake              # EnableAeroShake
+DisableAeroShake              # EnableAeroShake
 DisableStickyKeys               # EnableStickyKeys
 ShowTaskManagerDetails          # HideTaskManagerDetails
 ShowFileOperationsDetails       # HideFileOperationsDetails
