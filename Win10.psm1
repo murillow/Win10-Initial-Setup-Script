@@ -2307,7 +2307,7 @@ Function UninstallMsftBloat {
 	Get-AppxPackage "Microsoft.MicrosoftSolitaireCollection" | Remove-AppxPackage
 	Get-AppxPackage "Microsoft.MicrosoftStickyNotes" | Remove-AppxPackage
 	Get-AppxPackage "Microsoft.MinecraftUWP" | Remove-AppxPackage
-	Get-AppxPackage "Microsoft.MSPaint" | Remove-AppxPackage
+	#Get-AppxPackage "Microsoft.MSPaint" | Remove-AppxPackage
 	Get-AppxPackage "Microsoft.NetworkSpeedTest" | Remove-AppxPackage
 	Get-AppxPackage "Microsoft.Office.OneNote" | Remove-AppxPackage
 	Get-AppxPackage "Microsoft.Office.Sway" | Remove-AppxPackage
